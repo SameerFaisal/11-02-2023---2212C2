@@ -1,0 +1,39 @@
+body{
+    background-color: #D3D3D3;
+}
+#main{
+    margin-left: 20px;
+}
+#fname{
+    margin-left: 80px;
+}
+#lname{
+    margin-left: 80px;
+}
+#dob{
+    margin-left: 65px;
+}
+#eid{
+    margin-left: 90px;
+}
+#mn{
+    margin-left: 45px;
+}
+input{
+    background-color: gray;
+    border: 0px;
+    border-radius: 5px;
+    height: 30px;
+}
+#rs{
+    margin-left: 40px;
+}
+button{
+    font-weight: bold;
+    height: 60px;
+    width: 100px;
+    border-radius:5px;
+    border: 0px;
+    background-color: gray;
+    font-size: 20px;
+}
